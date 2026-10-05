@@ -94,3 +94,7 @@ pendant l'introduction et le lancement d'un titre.
 - Le remplacement est logiciel et ne modifie pas le titre systeme du menu Wii U.
 - Un test sur une vraie Wii U reste necessaire.
 
+**WARNING**
+ce projet est désormais cancelled a cause de prochain projet majeur demandant beaucoup de temps comme Astra Launcher il ne sera pas le seul a être archiver et abandonner je vous demande pardon si un ou plusieurs projet que vous attendiez a sortir était dans cette liste de projet annuler
+*Cordialement*
+**Pixel Electronics Arts**
